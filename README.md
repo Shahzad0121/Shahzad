@@ -16,6 +16,11 @@ This app boasts identical functionality to the Wi-Fi Analyzer Password Show App,
 
 - App Link:
 	> [https://play.google.com/store/apps/details?id=com.wifipasswordshow.speedtest.wifianalyzer.wifiqrcodescanner](https://play.google.com/store/apps/details?id=com.wifipasswordshow.speedtest.wifianalyzer.wifiqrcodescanner)
+ > <div align="center">
+    <img src="ClapToFind Comp/clap to find 1.png" alt="Image 1" width="30%">
+    <img src="ClapToFind Comp/clap to find 2.png" alt="Image 2" width="30%">
+    <img src="ClapToFind Comp/clap to find 3.png" alt="Image 3" width="30%">
+</div>
 
 ## Simple Mehndi Design (Traditional views)
 Created an innovative Simple Mehndi Design app catering to bridal needs with trending designs from various cultures including Indian, Pakistani, Arabic, and more. Features a wide array of categories such as back hand, palm, finger, foot, and arm designs, allowing users to easily download their favorites for offline use. Enhanced user experience with interactive features like zooming, wallpaper setting, and sharing options, fostering seamless creative inspiration and social engagement.
