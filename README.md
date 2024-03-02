@@ -10,6 +10,7 @@ This App empowering users to manage and optimize network connections effortlessl
 
 - App Link:
 	> [https://play.google.com/store/apps/details?id=com.wifipassword.show.wifishowpassword.wifianalyzer](https://play.google.com/store/apps/details?id=com.wifipassword.show.wifishowpassword.wifianalyzer)
+ > ![Image Alt Text](https://play-lh.googleusercontent.com/7N3I3pV8HDxOIorx-zDr0QSOUsqLwOWZohnzbTtTZPbXiwnuG6iSA1TU6Z0Z904nY5Y=w1052-h592-rw) 
 ## WiFi Show Password –Analyzer (Jetpack Compose)
 This app boasts identical functionality to the Wi-Fi Analyzer Password Show App, but distinguishes itself by being developed entirely in Jetpack Compose, foregoing traditional views for a more modern approach to user interface design and development.
 
